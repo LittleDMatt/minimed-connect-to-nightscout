@@ -12,7 +12,7 @@
   },
   "main": "index.js",
   "scripts": {
-    "start": "node run.js",
+    "run": "node run.js",
     "test": "node_modules/.bin/mocha"
   },
   "license": "MIT",
